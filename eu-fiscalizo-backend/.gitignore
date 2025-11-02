@@ -1,0 +1,10 @@
+# Diretório do ambiente virtual
+venv/
+
+# Arquivos do Django e Python
+__pycache__/
+*.pyc
+*.sqlite3
+
+# Arquivos de logs
+*.log
